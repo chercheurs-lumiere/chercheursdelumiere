@@ -1,0 +1,171 @@
+/* =========================================================
+   CHERCHEURS DE LUMIÈRE — STYLE PERSONNALISÉ
+   (lecture type papier, sobre, aéré)
+   ========================================================= */
+
+
+/* -------------------------------
+   📖 TYPOGRAPHIE (lecture longue)
+--------------------------------*/
+body {
+  font-family: "Georgia", serif;
+  font-size: 18px;
+  line-height: 1.75;
+  letter-spacing: 0.2px;
+  background-color: #fbfaf7;
+  color: #1b1b1b;
+}
+
+
+/* Titres */
+h1, h2, h3 {
+  font-family: "Georgia", serif;
+}
+
+
+/* -------------------------------
+   📄 LARGEUR DE LECTURE
+--------------------------------*/
+.book-page {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: justify;
+  hyphens: auto;
+  background-color: #fbfaf7;
+  min-height: 100vh;
+}
+
+/* -------------------------------
+   LOGO 
+--------------------------------*/
+
+.book-brand img {
+    width: 135px;
+    max-width: 135px;
+    height: auto;
+    display: block;
+    margin: 0 auto 0.5rem auto;
+}
+
+.book-brand span {
+    display: none;
+}
+
+.book-kind-home .book-page h1 {
+    font-size: clamp(2.2rem, 7vw, 3rem);
+    margin-bottom: 2rem;
+}
+
+/* -------------------------------
+   📑 PARAGRAPHES
+--------------------------------*/
+
+.book-page h1 {
+    font-family: "Georgia", serif;
+    font-size: 2.3rem;
+    margin-bottom: 1.5rem;
+}
+
+.book-page h2 {
+    font-family: "Georgia", serif;
+    font-size: 1.8rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: .25rem;
+    border-bottom: 2px solid #d9c27a;
+}
+
+.book-page h3 {
+    font-family: "Georgia", serif;
+    font-size: 1.35rem;
+    margin-top: 1.8rem;
+    margin-bottom: 0.8rem;
+}
+
+p {
+  margin-bottom: 1.2em;
+}
+
+
+/* -------------------------------
+   🔗 LIENS et BOUTONS
+--------------------------------*/
+a {
+  color: #3a5f8a;
+}
+
+a:hover {
+  color: #274b73;
+  text-decoration: underline;
+}
+
+.home-button {
+    display: inline-block;
+    padding: 0.4rem 0.9rem;
+    border: 1px solid #d9c27a;
+    border-radius: 4px;
+    text-decoration: none;
+    color: inherit;
+    font-size: 0.95rem;
+}
+
+.home-button:hover {
+    background-color: #f8f2de;
+}
+
+/* -------------------------------
+   📚 SIDEBAR (menu Book)
+--------------------------------*/
+
+.book-menu {
+  font-size: 1rem;
+  background-color: #f4f1eb;
+  line-height: 1.4;
+}
+
+.book-menu-content {
+  padding-top: 1rem;
+}
+
+/* -------------------------------
+   ✨ BLOCS DE CITATION (très utile pour toi)
+--------------------------------*/
+blockquote {
+  border-left: 3px solid var(--link-color);
+  padding-left: 1em;
+  margin-left: 0;
+  color: #333;
+  background: rgba(58, 95, 138, 0.05);
+  font-style: italic;
+}
+
+
+/* -------------------------------
+   🌿 HR (séparateurs discrets)
+--------------------------------*/
+hr {
+  border: none;
+  border-top: 1px solid var(--border-color);
+  margin: 2em 0;
+}
+
+
+/* -------------------------------
+   📱 MOBILE (lecture confortable)
+--------------------------------*/
+@media (max-width: 768px) {
+  body {
+    font-size: 17px;
+  }
+
+  .book-page {
+    padding: 0 1.25rem;
+    text-align: left;
+  }
+}
+
+@media (max-width: 768px) {
+  .book-kind-home .book-page h1 {
+      font-size: 2.2rem;
+  }
+}

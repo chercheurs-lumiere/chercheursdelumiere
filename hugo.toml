@@ -1,0 +1,14 @@
+baseURL = "http://localhost:1313/"
+locale = "fr-FR"
+defaultContentLanguage = 'fr'
+title = "Chercheurs de Lumière"
+theme = "hugo-book"
+
+[params]
+  BookSection = "docs"
+  BookToC = false
+  BookSearch = false
+  BookLogo = "images/Logo.png"
+
+[markup.goldmark.renderer]
+unsafe = true
