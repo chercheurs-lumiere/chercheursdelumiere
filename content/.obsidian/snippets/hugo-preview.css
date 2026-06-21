@@ -1,0 +1,96 @@
+/* Ambiance générale proche du site Hugo */
+
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-content {
+font-family: Georgia, serif;
+font-size: 18px;
+line-height: 1.75;
+}
+
+/* Largeur de lecture */
+
+.markdown-preview-view,
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
+max-width: 720px;
+}
+
+/* Titres */
+
+.markdown-preview-view h1,
+.markdown-source-view .HyperMD-header-1 {
+font-family: Georgia, serif;
+font-weight: 500;
+font-size: 2.2em;
+margin-top: 1.5em;
+margin-bottom: 0.7em;
+}
+
+.markdown-preview-view h2,
+.markdown-source-view .HyperMD-header-2 {
+font-family: Georgia, serif;
+font-weight: 400;
+font-size: 1.7em;
+margin-top: 1.4em;
+border-bottom: 1px solid var(--background-modifier-border);
+padding-bottom: 0.3rem;
+}
+
+.markdown-preview-view h3,
+.markdown-source-view .HyperMD-header-3 {
+font-family: Georgia, serif;
+font-weight: 400;
+font-size: 1.35em;
+}
+
+.markdown-preview-view h4,
+.markdown-source-view .HyperMD-header-4 {
+font-family: Georgia, serif;
+font-weight: 300;
+}
+
+/* Citations */
+
+.markdown-rendered blockquote {
+  border-inline-start: none;
+  background: rgba(120, 120, 120, 0.06);
+  padding: 0.6em 1em;
+  margin: 1.2em 0;
+  border-radius: 4px;
+}
+
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
+  background: rgba(120, 120, 120, 0.06);
+  padding: 0.6em 1em;
+  margin: 1.2em 0;
+  border-radius: 4px;
+}
+
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote:before,
+.markdown-source-view.mod-cm6 .cm-blockquote-border:before {
+  border-left: none;
+}
+
+/* Images */
+
+.markdown-preview-view img {
+border-radius: 6px;
+}
+
+/* Tableaux */
+
+.markdown-preview-view table {
+width: 100%;
+}
+
+/* Liens */
+
+.markdown-preview-view a {
+text-decoration: none;
+}
+
+/* Séparateurs */
+
+.markdown-preview-view hr {
+margin: 2em auto;
+width: 40%;
+}

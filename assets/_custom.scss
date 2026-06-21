@@ -86,6 +86,58 @@ p {
   margin-bottom: 1.2em;
 }
 
+.book-page .book-article ul {
+  list-style: none;
+  padding-left: 1.2em;
+}
+
+.book-page .book-article ul > li::before {
+  content: "–";
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+/* --------------------------------------------------------------------
+📑 CALLOUTS avec titre (liés à \layouts\_markup\render-blockquote.html)
+----------------------------------------------------------------------*/
+
+/* Action sur tous les blockquote -> info, important et citations */
+
+.markdown blockquote {
+  border-inline-start: 4px solid #8a8a8a;
+  background: rgba(58, 95, 138, 0.05);
+  font-style: italic;
+}
+
+/* Puis modification pour info et important (warning) */
+.book-hint-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  font-size: 1.05rem;
+  line-height: 1.2;
+  margin-bottom: 0.4rem;
+  letter-spacing: 0.2px;
+}
+
+.book-hint.info .book-hint-title {
+  color: #1e5bd7;
+}
+
+.book-hint.warning .book-hint-title {
+  color: #d97706;
+}
+
+.book-hint.info {
+  font-style: normal;
+}
+
+.book-hint.warning {
+  font-style: normal;
+}
+
 
 /* -------------------------------
    🔗 LIENS et BOUTONS
@@ -130,8 +182,8 @@ a:hover {
 /* -------------------------------
    ✨ BLOCS DE CITATION (très utile pour toi)
 --------------------------------*/
-blockquote {
-  border-left: 3px solid var(--link-color);
+blockquote:not(.book-hint) {
+  border-left: 3px solid #000000;
   padding-left: 1em;
   margin-left: 0;
   color: #333;

@@ -1,0 +1,14 @@
+{{- $attributes := .Attributes -}}
+{{- $class := printf "book-hint %s" ($.AlertType | lower) -}}
+
+<blockquote class="{{ $class }}">
+  {{ with .AlertTitle }}
+    <div class="book-hint-title">
+      {{ . }}
+    </div>
+  {{ end }}
+
+  <div class="book-hint-content">
+    {{ .Text }}
+  </div>
+</blockquote>
