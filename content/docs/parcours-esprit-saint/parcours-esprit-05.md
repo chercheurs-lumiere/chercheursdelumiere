@@ -1,6 +1,14 @@
-> Aujourd'hui, nous allons continuer à découvrir comment l'Esprit Saint agit en nous, plus précisément comment il parle en nous. Car oui, l'Esprit vous parle. Et vous êtes même capables d'entendre sa voix !
->
-> Certes, nous autres femmes et hommes modernes, nous avons un problème. Il y a énormément de voix qui parlent en nous, qui font beaucoup de bruit : les infos, les réseaux sociaux, les publicités, les influenceurs. Et quand tout le monde parle en même temps, la voix de l'Esprit peut passer inaperçue, parce qu'elle est subtile ! La voix la plus fondamentale pour nous est aussi la plus discrète[^1].
+---
+title: Etape 5 - L'Esprit Saint te parle!
+linkTitle: 5 - L'Esprit te parle!
+---
+# Etape 5 - L'Esprit Saint te parle!
+
+{{< youtube v3I42uXxaJc >}}
+
+Aujourd'hui, nous allons continuer à découvrir comment l'Esprit Saint agit en nous, plus précisément comment il parle en nous. Car oui, l'Esprit vous parle. Et vous êtes même capables d'entendre sa voix !
+
+Certes, nous autres femmes et hommes modernes, nous avons un problème. Il y a énormément de voix qui parlent en nous, qui font beaucoup de bruit : les infos, les réseaux sociaux, les publicités, les influenceurs. Et quand tout le monde parle en même temps, la voix de l'Esprit peut passer inaperçue, parce qu'elle est subtile ! La voix la plus fondamentale pour nous est aussi la plus discrète[^1].
 
 # Oui, l'Esprit parle
 
@@ -17,11 +25,8 @@ Sans vous mettre la pression dans votre choix. Que dit Jésus ? A Nicodème il 
 Il y a deux questions qui vont ensemble. Celle à laquelle nous sommes tous impatients d'obtenir une réponse. « Comment l'Esprit parle-t-il ? » Quels canaux utilise-t-il ? Mais vous allez voir que va forcément surgir une seconde question : « Est-ce que c'est bien l'Esprit qui me parle ? » Ce qu'on appelle le « discernement ».
 
 Commençons par les façons dont Dieu se révèle.[^7] L'Esprit Saint est très créatif...
-
 - Il peut se manifester de façon sensible (par nos sens extérieurs), par la vue, l'ouïe par exemple. Ne pensez pas tout de suite à une apparition. Souvent il s'agit des choses de la vie courante qui prennent un sens particulier[^8]. Un paysage fabuleux peut susciter en nous un goût de Dieu. On peut percevoir une chaleur dans la prière ou les muscles peuvent paraître très lourds. Il n'est pas rare que cela déclenche aussi nos émotions : de la paix ou de la joie, des larmes parfois.
-
 - Il passe par notre imagination (les sens intérieurs). Il arrive que l'on ait des images intérieures lors d'un temps de prière, où lorsqu'on prie pour quelqu'un. Des rêves parfois, il y en a beaucoup dans la Bible. Saint Paul rêve d'un macédonien et comprend que l'Esprit l'attend en Macédoine[^9]
-
 - Nos idées. Un passage que l'on a lu et qui saute aux yeux ou qui persiste dans l'esprit. Une voix, généralement celle de notre propre pensée. Soyez attentifs aux idées spontanées, inattendues, persistantes. Une connaissance ou un souvenir qui remonte. Une association d'idée. Pourquoi je pense à telle personne, que je n'ai pas vue depuis trois ans ? C'est peut-être un appel de l'Esprit à la contacter.
 
 Donc vous voyez, ce sont généralement des choses simples. On parle parfois d'inspirations ou de « motions », des petites touches délicates qui se manifestent plus volontiers dans un moment de paix ou de calme, d'où l'importance de se donner des moments de silence. Plus on est attentif à sa voix plus on est capable de la distinguer. Ces motions nous conduisent parfois à agir. Si on y répond fidèlement, et c'est parfois dur, elles vont devenir plus nombreuses.[^10]
@@ -41,24 +46,13 @@ Est-ce qu'il faut arrêter d'écouter l'Esprit par peur de se tromper ? Non. La 
 # Entrée en prière
 
 - Aujourd'hui nous allons demander la grâce d'entendre la voix de l'Esprit Saint.
-
 - Pour commencer, je relâche mon corps. On peut lire un texte, comme la dernière fois. Pour certains, chanter un petit refrain peut aider.
-
 - Prenez le temps de laisser le silence s'installer. Mettez en pause.
-
 - Au nom du Père, du Fils et du Saint-Esprit.
-
 - Père, je suis ton enfant. Tu veux me parler, car tu es un Dieu qui se révèle.
-
 - Je suis fait pour entendre la voix de l'Esprit Saint en moi.
-
 - Je ferme les yeux et je pose une question qui me tient à cœur. Par exemple : « Esprit Saint, que veux-tu me dire sur ma relation avec toi ? », puis je suis attentif à ce qui vient, dans ma pensée, mon imagination, mes émotions. Il faut parfois laisser du temps, il faudra peut-être recommencer, sans se lasser.
-
 - Après le temps de prière, je note ce que j'ai reçu.
-
-![](media/image1.png){width="7.3180555555555555in" height="1.0347222222222223in"}
-
-Avec l'aimable autorisation de JFD, https://www.sos-messe.fr/pentecote/
 
 [^1]: Dans le premier livre des Rois, Dieu parle dans *« le murmure d'une brise légère »*, pas à grand bruit (1R 19,12).
 

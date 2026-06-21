@@ -1,3 +1,14 @@
+---
+title: Etape 9 - L'Esprit Saint combat avec toi
+linkTitle: 9 - Aimer avec son Coeur
+---
+
+
+# Etape 9 - Je veux aimer avec le Cœur de Dieu
+
+{{< youtube yM-nqfmocaU >}}
+
+
 Quand on lit le récit de la Pentecôte une chose saute aux yeux, c'est la transformation profonde opérée dans les apôtres, dans ce petit noyau d'Eglise.
 
 N'oublions pas trop vite que la mort de Jésus a d'abord eu pour effet de les renfermer sur eux-mêmes, parce qu'ils n'en ont pas compris la portée. Qu'ils étaient tristes et déçus, les disciples d'Emmaüs[^1]. Qu'ils étaient dans le doute, Pierre, Jean et les autres, quand les femmes leur annoncent la Résurrection : « leur propos leur semblèrent délirants, et ils ne les croyaient pas. »[^2]. Qu'ils avaient peur : « les portes du lieu où se trouvaient les disciples étaient verrouillées par crainte des Juifs. »[^3]
@@ -40,42 +51,27 @@ N'ayons pas peur, nous travaillons en équipe avec l'Esprit Saint. Nous mettons 
 
 Nous écoutons le récit de la Pentecôte[^16], dans la traduction « Parole de Vie ».
 
-Quand le jour de la Pentecôte arrive, les croyants sont réunis tous ensemble au même endroit. Tout à coup un bruit vient du ciel. C'est comme le souffle d'un violent coup de vent. Le bruit remplit toute la maison où ils sont assis. Alors ils voient apparaître des langues, comme des langues de feu. Elles se séparent et se posent sur chacun d'eux. Tous sont remplis de l'Esprit Saint et ils se mettent à parler d'autres langues. C'est l'Esprit qui leur donne de faire cela.
-
-À Jérusalem, il y a des Juifs venus de tous les pays du monde. Ce sont des gens fidèles à Dieu. Quand ils entendent ce bruit, ils se rassemblent en foule. Ils sont profondément surpris, parce que chacun entend les croyants parler dans sa langue. (...)
-
-Alors Pierre, debout avec les onze apôtres, se met à dire d'une voix forte : « Frères juifs, et vous tous qui habitez à Jérusalem, vous devez comprendre ce qui se passe. Écoutez bien ce que je vais dire. (...) Dieu vous a montré qui était Jésus de Nazareth. En effet, au milieu de vous, Dieu a fait par Jésus des miracles, des choses extraordinaires et étonnantes, vous le savez bien. (...) Ce Jésus, Dieu l'a relevé de la mort, nous en sommes tous témoins. Dieu l'a fait monter jusqu'à sa droite, il a reçu du Père l'Esprit Saint promis et il nous l'a donné. Voilà ce que vous voyez et entendez maintenant. (...) La promesse de Dieu est pour vous et pour vos enfants. Elle est pour tous ceux qui sont loin, pour tous ceux que le Seigneur notre Dieu appellera. » (...)
-
-Ceux qui acceptent la parole de Pierre se font baptiser. Ce jour-là, à peu près 3000 personnes s'ajoutent au groupe des croyants.
+>Quand le jour de la Pentecôte arrive, les croyants sont réunis tous ensemble au même endroit. Tout à coup un bruit vient du ciel. C'est comme le souffle d'un violent coup de vent. Le bruit remplit toute la maison où ils sont assis. Alors ils voient apparaître des langues, comme des langues de feu. Elles se séparent et se posent sur chacun d'eux. Tous sont remplis de l'Esprit Saint et ils se mettent à parler d'autres langues. C'est l'Esprit qui leur donne de faire cela.
+>
+>À Jérusalem, il y a des Juifs venus de tous les pays du monde. Ce sont des gens fidèles à Dieu. Quand ils entendent ce bruit, ils se rassemblent en foule. Ils sont profondément surpris, parce que chacun entend les croyants parler dans sa langue. (...)
+>
+>Alors Pierre, debout avec les onze apôtres, se met à dire d'une voix forte : « Frères juifs, et vous tous qui habitez à Jérusalem, vous devez comprendre ce qui se passe. Écoutez bien ce que je vais dire. (...) Dieu vous a montré qui était Jésus de Nazareth. En effet, au milieu de vous, Dieu a fait par Jésus des miracles, des choses extraordinaires et étonnantes, vous le savez bien. (...) Ce Jésus, Dieu l'a relevé de la mort, nous en sommes tous témoins. Dieu l'a fait monter jusqu'à sa droite, il a reçu du Père l'Esprit Saint promis et il nous l'a donné. Voilà ce que vous voyez et entendez maintenant. (...) La promesse de Dieu est pour vous et pour vos enfants. Elle est pour tous ceux qui sont loin, pour tous ceux que le Seigneur notre Dieu appellera. » (...)
+>
+>Ceux qui acceptent la parole de Pierre se font baptiser. Ce jour-là, à peu près 3000 personnes s'ajoutent au groupe des croyants.
 
 [^1]: Evangile de Luc, chapitre 24, versets 13 à 33.
-
 [^2]: Evangile de Luc, chapitre 24, verset 11.
-
 [^3]: Evangile de Jean, chapitre 20, verset 17.
-
 [^4]: Père Marie-Eugène, *Au souffle de l'Esprit*, p.342
-
 [^5]: Actes des Apôtres, chapitre 2, entre les versets 37 et 47.
-
 [^6]: C'est ce que disent Saint Augustin et saint Thomas d'Aquin de l'Esprit Saint.
-
 [^7]: Raniero Cantalamessa, *La vie dans la Seigneurie du Christ*, p.25*.* « L'amour qui a été répandu en nous est celui-là même avec lequel le Père, depuis toujours, aime le Fils ; ce n'est pas un amour différent. C'est un débordement de l'amour divin de la Trinité jusqu'à nous. »
-
 [^8]: Père Marie-Eugène, *Heureux l'apôtre uni à l'Esprit d'Amour*, p.41.
-
 [^9]: Saint Séraphin de Sarov. « Le vrai but de la vie chrétienne consiste en l'acquisition du Saint-Esprit de Dieu. Quant à la prière, au jeûne, aux veilles, à l'aumône et toute autre bonne action faite au nom du Christ, ce ne sont que des moyens pour l'acquisition du Saint-Esprit. »
-
 [^10]: Père Marie-Eugène, *Chemins vers le silence intérieur.*
-
 [^11]: Tout ce passage est inspiré du Père Louis Menvielle dans « L'amour est un torrent », disponible en ligne https://www.clerus.org/clerus/dati/2001-02/20-999999/10.html
-
 [^12]: Père Marie-Eugène, *Homélie de la Pentecôte 1965.* « L'Esprit d'Amour en effet n'a qu'un désir, une seule opération qui lui est naturelle, normale, c'est d'aimer, c'est de diffuser cet amour. Il ne veut que cela. »
-
 [^13]: Père Marie-Eugène, *Heureux l'apôtre uni à l'Esprit d'Amour*, p.47.
-
 [^14]: Evangile de Matthieu, chapitre 25, verset 40.
-
 [^15]: Père Marie-Eugène, *Heureux l'apôtre uni à l'Esprit d'Amour*, p.26.
-
 [^16]: Actes des Apôtres, chapitre 2, versets 1 à 6, 14, 22, 32 et 33, 39, 41

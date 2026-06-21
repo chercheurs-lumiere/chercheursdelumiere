@@ -2,7 +2,7 @@
 title: Etape 3 - L'Esprit Saint te pousse vers la vie
 linkTitle: 3 - L'Esprit te pousse à la vie
 ---
-# Etape 3 - L'Esprit Saint te pousse vers les vie
+# Etape 3 - L'Esprit Saint te pousse vers la vie
 
 {{< youtube KH5j_di_bsM >}}
 

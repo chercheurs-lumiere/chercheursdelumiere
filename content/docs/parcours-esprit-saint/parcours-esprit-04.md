@@ -2,7 +2,6 @@
 title: Etape 4 - L'Esprit Saint combat avec toi
 linkTitle: 4 - L'Esprit combat avec toi
 ---
-
 # Etape 4 - L'Esprit Saint combat avec toi
 
 {{< youtube F5GFtYvlQSw >}}
