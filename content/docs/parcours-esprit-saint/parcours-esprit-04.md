@@ -3,8 +3,16 @@ title: Etape 4 - L'Esprit Saint combat avec toi
 linkTitle: 4 - L'Esprit combat avec toi
 ---
 # Etape 4 - L'Esprit Saint combat avec toi
-
-{{< youtube F5GFtYvlQSw >}}
+{{< lesson-header youtube="F5GFtYvlQSw" >}}  
+  > [!info] En résumé  
+>  
+> Cet enseignement présente trois clés simples pour entrer dans la prière :  
+>  - Faire simple.  
+> - Persévérer malgré les distractions.  
+> - Chercher la rencontre avec Dieu.  
+> - test
+ 
+{{< /lesson-header >}}
 
 Nous arrivons presque au milieu de notre parcours. Soufflons un instant pour reprendre les belles choses que nous avons apprises. Le tout n'est pas d'accumuler beaucoup de savoirs, mais de déguster, de faire nôtres ces vérités pour qu'elles pénètrent en notre cœur et changent notre vie.
 

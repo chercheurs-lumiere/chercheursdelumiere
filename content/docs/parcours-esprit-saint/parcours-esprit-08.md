@@ -2,10 +2,17 @@
 title: Etape 8 - Avec Marie et Joseph, dociles à l'Esprit
 linkTitle: 8 - Avec Marie et Joseph
 ---
-
 # Etape 8 - Avec Marie et Joseph, dociles à l'Esprit
-
-{{< youtube xjYYzFgmXmw >}}
+{{< lesson-header youtube="xjYYzFgmXmw" >}}  
+  > [!info] En résumé  
+>  
+> Cet enseignement présente trois clés simples pour entrer dans la prière :  
+>  - Faire simple.  
+> - Persévérer malgré les distractions.  
+> - Chercher la rencontre avec Dieu.  
+> - test
+ 
+{{< /lesson-header >}}
 
 Au Cénacle, la grande salle où aura lieu la Pentecôte (peut-être la même que celle où Jésus a vécu son dernier repas et où Jésus Ressuscité est apparu ?), il y a toute la petite Eglise naissante, toute craintive encore. Et je trouve tellement beau que saint Luc prenne le temps de dire que Marie est avec eux[^1]. Je ne crois pas à un hasard... Des croyants, des grands saints qui se sont laissés conduire par l'Esprit, on pourrait en citer des milliers. Mais quoi de mieux que d'interroger Marie : « Maman, comment as-tu pu devenir si docile à l'Esprit Saint ? À Nazareth, avec Joseph, comment vous êtes-vous laissés conduire par l'Esprit ? » Dis-moi, apprend-moi !
 

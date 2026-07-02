@@ -3,8 +3,16 @@ title: Etape 2 - L'Esprit Saint révèle qui tu es
 linkTitle: 2 - L'Esprit révèle qui tu es
 ---
 # Etape 2 - L'Esprit Saint révèle qui tu es
-
-{{< youtube 8dcJyX-s-bY >}}
+{{< lesson-header youtube="8dcJyX-s-bY" >}}  
+  > [!info] En résumé  
+>  
+> Cet enseignement présente trois clés simples pour entrer dans la prière :  
+>  - Faire simple.  
+> - Persévérer malgré les distractions.  
+> - Chercher la rencontre avec Dieu.  
+> - test
+ 
+{{< /lesson-header >}}
 
 Ce que je vais vous dire dans cette vidéo, je voudrais le crier sous tous les toits : à chaque personne en souffrance, en recherche de Dieu, à chaque personne qui ne voit pas de sens à sa vie. J'ai longtemps cherché des mots assez puissants : aucun ne m'a paru suffisant. J'ai fini par accepter que je ne peux que faire de mon mieux\... C'est à l'Esprit Saint de faire éclater cette vérité en vous ! Et je crois qu'il le fera !
 

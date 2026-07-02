@@ -8,6 +8,7 @@ Introduction de test avec du texte courant. Ce paragraphe permet de vérifier la
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet.
 
+Lien:  [quelques clefs pour prier](/docs/autres-themes/trois-clefs-priere/)
 ## Encadrés
 
 > [!info] Objectifs 

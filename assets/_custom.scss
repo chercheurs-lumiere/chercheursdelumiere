@@ -40,8 +40,8 @@ h1, h2, h3 {
 --------------------------------*/
 
 .book-brand img {
-    width: 135px;
-    max-width: 135px;
+    width: 150px;
+    max-width: 150px;
     height: auto;
     display: block;
     margin: 0 auto 0.5rem auto;
@@ -53,7 +53,18 @@ h1, h2, h3 {
 
 .book-kind-home .book-page h1 {
     font-size: clamp(2.2rem, 7vw, 3rem);
-    margin-bottom: 2rem;
+    margin-bottom: 0.7rem;
+    font-weight: 600;
+}
+
+.book-kind-home .book-page h1 + p {
+    font-size: 1.25rem;
+    line-height: 1.2;
+    color:  #4f4f4f;
+    font-style: italic;
+    border-left: 2px solid #d9c27a;
+    padding-left: 1rem;
+    margin-bottom: 4rem;
 }
 
 /* -------------------------------
@@ -83,8 +94,12 @@ h1, h2, h3 {
 }
 
 p {
-  margin-bottom: 1.2em;
+  margin-bottom: 1em;
 }
+
+/* -------------------------------
+   📑 Listes à puces
+--------------------------------*/
 
 .book-page .book-article ul {
   list-style: none;
@@ -138,7 +153,6 @@ p {
   font-style: normal;
 }
 
-
 /* -------------------------------
    🔗 LIENS et BOUTONS
 --------------------------------*/
@@ -153,6 +167,8 @@ a:hover {
 
 .home-button {
     display: inline-block;
+    min-width: 220px;
+    text-align: center;
     padding: 0.4rem 0.9rem;
     border: 1px solid #d9c27a;
     border-radius: 4px;
@@ -164,6 +180,20 @@ a:hover {
 .home-button:hover {
     background-color: #f8f2de;
 }
+
+.book-footer-nav {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+/* lien "haut de page" */
+.book-footer-nav .nav-top {
+  text-align: right;
+}
+
+
 
 /* -------------------------------
    📚 SIDEBAR (menu Book)
@@ -184,18 +214,9 @@ a:hover {
     font-weight: 400;
 }
 
-/* -------------------------------
-   ✨ BLOCS DE CITATION (très utile pour toi)
---------------------------------*/
-blockquote:not(.book-hint) {
-  border-left: 3px solid #000000;
-  padding-left: 1em;
-  margin-left: 0;
-  color: #333;
-  background: rgba(58, 95, 138, 0.05);
-  font-style: italic;
+.book-header h3 {
+  display: none;
 }
-
 
 /* -------------------------------
    🌿 HR (séparateurs discrets)
@@ -206,6 +227,50 @@ hr {
   margin: 2em 0;
 }
 
+
+/* -------------------------------------------------------
+   📱 En-tête de leçons (lié à \layouts\shortcodes\lesson-header.html
+-----------------------------------------------------------*/
+.lesson-header {
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  gap: 1rem;
+  margin: 1rem 0;
+  align-items: stretch;
+}
+
+.lesson-summary {
+  min-width: 0;
+  height: 100%;
+}
+
+.lesson-summary .book-hint.info {
+  height: 100%;
+}
+
+.lesson-video {
+  min-width: 0;
+}
+
+.video-wrapper {
+  position: relative;
+  aspect-ratio: 16 / 9;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 0.5rem;
+}
+
+.lesson-summary .book-hint.info {
+  margin-top: 0rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
 
 /* -------------------------------
    📱 MOBILE (lecture confortable)
@@ -224,5 +289,13 @@ hr {
 @media (max-width: 768px) {
   .book-kind-home .book-page h1 {
       font-size: 2.2rem;
+  }
+}
+
+/* Mobile */
+
+@media (max-width: 1024px) {
+  .lesson-header {
+    grid-template-columns: 1fr;
   }
 }

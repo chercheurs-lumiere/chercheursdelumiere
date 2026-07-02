@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/parcours-esprit-saint/parcours-esprit-09.md",
+                "file": "docs/autres-themes/sacre-coeur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "parcours-esprit-09"
+              "title": "sacre-coeur"
             }
           }
         ]
@@ -62,16 +62,6 @@
               },
               "icon": "lucide-search",
               "title": "Rechercher"
-            }
-          },
-          {
-            "id": "07e33fdce4dd9b9e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Signets"
             }
           }
         ]
@@ -122,21 +112,6 @@
             }
           },
           {
-            "id": "b9ecaae8483a4e6c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Mots-clés"
-            }
-          },
-          {
             "id": "b4b6f61b9432437e",
             "type": "leaf",
             "state": {
@@ -149,21 +124,6 @@
               "icon": "lucide-archive",
               "title": "Toutes les propriétés"
             }
-          },
-          {
-            "id": "70401818837482dd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "docs/parcours-esprit-saint/parcours-esprit-01.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Plan de parcours-esprit-01"
-            }
           }
         ]
       }
@@ -174,30 +134,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
   "active": "14b2c5f16dd5742c",
   "lastOpenFiles": [
+    "docs/autres-themes/chapelet-divine-misericorde.md",
+    "docs/autres-themes/trois-clefs-priere.md",
+    "docs/autres-themes/sacre-coeur.md",
+    "docs/parcours-esprit-saint/parcours-esprit-01.md",
+    "docs/parcours-esprit-saint/parcours-esprit-02.md",
+    "autres-themes/chapelet-divine-misericorde.md",
+    "autres-themes",
+    "docs/parcours-esprit-saint/_index.md",
+    "_index.md",
     "docs/feuille-style.md",
+    "Pasted image 20260702170224.png",
+    "docs/parcours-esprit-saint/parcours-esprit-03.md",
+    "docs/parcours-esprit-saint/parcours-esprit-04.md",
+    "docs/autres-themes/_index.md",
+    "docs/accueil.md",
     "docs/parcours-esprit-saint/parcours-esprit-09.md",
     "docs/parcours-esprit-saint/parcours-esprit-08.md",
     "docs/parcours-esprit-saint/parcours-esprit-07.md",
-    "docs/parcours-esprit-saint/parcours-esprit-05.md",
-    "docs/parcours-esprit-saint/parcours-esprit-04.md",
     "docs/parcours-esprit-saint/parcours-esprit-06.md",
-    "docs/parcours-esprit-saint/parcours-esprit-03.md",
-    "docs/parcours-esprit-saint/parcours-esprit-02.md",
-    "docs/parcours-esprit-saint/parcours-esprit-01.md",
-    "docs/autres-themes/sacre-coeur.md",
-    "docs/parcours-esprit-saint/_index.md",
-    "docs/trois-clefs-priere/_index.md",
-    "docs/accueil.md"
+    "docs/parcours-esprit-saint/parcours-esprit-05.md"
   ]
 }

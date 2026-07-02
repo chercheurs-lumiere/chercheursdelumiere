@@ -3,8 +3,16 @@ title: Etape 5 - L'Esprit Saint te parle!
 linkTitle: 5 - L'Esprit te parle!
 ---
 # Etape 5 - L'Esprit Saint te parle!
-
-{{< youtube v3I42uXxaJc >}}
+{{< lesson-header youtube="v3I42uXxaJc" >}}  
+  > [!info] En résumé  
+>  
+> Cet enseignement présente trois clés simples pour entrer dans la prière :  
+>  - Faire simple.  
+> - Persévérer malgré les distractions.  
+> - Chercher la rencontre avec Dieu.  
+> - test
+ 
+{{< /lesson-header >}}
 
 Aujourd'hui, nous allons continuer à découvrir comment l'Esprit Saint agit en nous, plus précisément comment il parle en nous. Car oui, l'Esprit vous parle. Et vous êtes même capables d'entendre sa voix !
 

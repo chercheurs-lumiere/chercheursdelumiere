@@ -4,4 +4,4 @@ weight: -100
 BookHref: "/"
 ---
 
-Accueil
+(Page technique renvoyant vers l'accueil du site)

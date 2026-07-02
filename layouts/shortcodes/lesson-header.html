@@ -1,0 +1,19 @@
+<div class="lesson-header">
+
+  <div class="lesson-summary">
+    {{ .Inner | markdownify }}
+  </div>
+
+  <div class="lesson-video">
+    <div class="video-wrapper">
+      <iframe
+        src="https://www.youtube.com/embed/{{ .Get "youtube" }}"
+        title="YouTube video player"
+        loading="lazy"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+
+</div>
+<br/>

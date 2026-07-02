@@ -2,12 +2,17 @@
 title: Etape 9 - L'Esprit Saint combat avec toi
 linkTitle: 9 - Aimer avec son Coeur
 ---
-
-
 # Etape 9 - Je veux aimer avec le Cœur de Dieu
+{{< lesson-header youtube="yM-nqfmocaU" >}}  
+  > [!info] En résumé  
+>  
+> Cet enseignement présente trois clés simples pour entrer dans la prière :  
+>  - Faire simple.  
+> - Persévérer malgré les distractions.  
+> - Chercher la rencontre avec Dieu.  
+> - test
 
-{{< youtube yM-nqfmocaU >}}
-
+  {{< /lesson-header >}}
 
 Quand on lit le récit de la Pentecôte une chose saute aux yeux, c'est la transformation profonde opérée dans les apôtres, dans ce petit noyau d'Eglise.
 

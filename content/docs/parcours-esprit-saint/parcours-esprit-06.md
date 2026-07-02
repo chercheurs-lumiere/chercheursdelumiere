@@ -3,8 +3,16 @@ title: Etape 6 - Dons, fruits et charismes
 linkTitle: 6 - Dons, fruits et charismes
 ---
 # Etape 6 - Dons, fruits et charismes
-
-{{< youtube uVIU9DD_V2M >}}
+{{< lesson-header youtube="uVIU9DD_V2M" >}}  
+  > [!info] En résumé  
+>  
+> Cet enseignement présente trois clés simples pour entrer dans la prière :  
+>  - Faire simple.  
+> - Persévérer malgré les distractions.  
+> - Chercher la rencontre avec Dieu.  
+> - test
+ 
+{{< /lesson-header >}}
 
 Aujourd'hui, mettons un peu d'ordre dans un vocabulaire que nous entendons régulièrement, sans toujours le comprendre. On parle des dons de l'Esprit Saint, il y en a sept, on parle des fruits de l'Esprit (ça se complique, il y en a douze) et aussi on parle de charismes. Ne vous inquiétez pas, il n'y aura pas de longues listes à apprendre par cœur ! Mais surtout, il y a à prendre conscience que nous sommes des enfants gâtés, choyés. Oui, l'Esprit a de nombreux cadeaux pour nous !
 

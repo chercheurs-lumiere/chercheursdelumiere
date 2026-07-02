@@ -3,8 +3,16 @@ title: Etape 7 - Le Baptême dans l'Esprit Saint
 linkTitle: 7 - Baptême dans l'Esprit
 ---
 # Etape 7 - Le Baptême dans l'Esprit Saint
-
-{{< youtube bsGxsK_3GOE >}}
+{{< lesson-header youtube="bsGxsK_3GOE" >}}  
+  > [!info] En résumé  
+>  
+> Cet enseignement présente trois clés simples pour entrer dans la prière :  
+>  - Faire simple.  
+> - Persévérer malgré les distractions.  
+> - Chercher la rencontre avec Dieu.  
+> - test
+ 
+{{< /lesson-header >}}
 
 Aujourd'hui nous découvrons une réalité encore peu connue dans nos paroisses... Le baptême dans l'Esprit Saint -- on dit aussi l'effusion de l'Esprit Saint. Cela ne vous dit peut-être rien. Ou alors vous commencez à vous demander si l'on peut être baptisé deux fois ? Rassurez-vous, il y a un seul et unique sacrement de baptême !
 

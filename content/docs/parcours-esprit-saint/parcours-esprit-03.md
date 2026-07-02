@@ -3,8 +3,16 @@ title: Etape 3 - L'Esprit Saint te pousse vers la vie
 linkTitle: 3 - L'Esprit te pousse à la vie
 ---
 # Etape 3 - L'Esprit Saint te pousse vers la vie
-
-{{< youtube KH5j_di_bsM >}}
+{{< lesson-header youtube="KH5j_di_bsM" >}}  
+  > [!info] En résumé  
+>  
+> Cet enseignement présente trois clés simples pour entrer dans la prière :  
+>  - Faire simple.  
+> - Persévérer malgré les distractions.  
+> - Chercher la rencontre avec Dieu.  
+> - test
+ 
+{{< /lesson-header >}}
 
 Vous est-il déjà arrivé dans votre vie, de vous sentir comme mort, insensible à tout, comme dans un piège ? Envie de dire « je suis pris au piège de la mort »[^1] ou « mon âme est rassasiée de malheur, je suis comme un homme fini »[^2].
 
