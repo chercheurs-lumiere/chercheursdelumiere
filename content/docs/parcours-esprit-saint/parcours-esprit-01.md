@@ -1,6 +1,7 @@
 ---
 title: Etape 1 - L'Esprit Saint habite en toi
 linkTitle: 1 - L'Esprit habite en toi
+description: "Nous sommes des temples de l’Esprit: Dieu habite en nous."
 ---
 # Etape 1 - L'Esprit Saint habite en toi
 {{< lesson-header youtube="CjbA572Q1zE" >}}  

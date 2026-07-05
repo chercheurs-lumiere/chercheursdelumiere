@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<article class="markdown">
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+<div class="theme-list">
+
+{{ range .RegularPages.ByWeight }}
+
+<div class="theme-card">
+
+<h2>
+
+<a href="{{ .RelPermalink }}">
+{{ .Title }}
+</a>
+
+</h2>
+
+{{ with .Description }}
+<p>{{ . }}</p>
+{{ end }}
+
+</div>
+
+{{ end }}
+
+</div>
+
+</article>
+
+{{ end }}

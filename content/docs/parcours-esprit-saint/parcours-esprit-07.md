@@ -1,16 +1,12 @@
 ---
 title: Etape 7 - Le Baptême dans l'Esprit Saint
 linkTitle: 7 - Baptême dans l'Esprit
+description: "Lorsque notre amour s’attiédit, l’Esprit vient nous renouveler."
 ---
 # Etape 7 - Le Baptême dans l'Esprit Saint
 {{< lesson-header youtube="bsGxsK_3GOE" >}}  
   > [!info] En résumé  
->  
-> Cet enseignement présente trois clés simples pour entrer dans la prière :  
->  - Faire simple.  
-> - Persévérer malgré les distractions.  
-> - Chercher la rencontre avec Dieu.  
-> - test
+>Découvrez le baptême dans l'Esprit Saint : une grâce qui **réveille en nous les dons reçus au baptême**. Car Dieu sait que nous avons parfois besoin d'être renouvelés dans notre amour pour Lui et pour les autres.
  
 {{< /lesson-header >}}
 
@@ -20,11 +16,11 @@ Mais je vous en parle aujourd'hui parce que ma conviction est que ce baptême da
 
 C'est une grâce que j'ai moi-même vécue, alors j'obéis avec joie !
 
-# Une belle redécouverte
+## Une belle redécouverte
 
- On trouve déjà cette expression « baptême dans l'Esprit Saint », dans le Nouveau Testament[^2]. Jésus, lui qui est « rempli d'Esprit Saint » est annoncé par Jean-Baptiste comme celui qui « baptise dans l'Esprit Saint »[^3]. Après sa Résurrection, il annonce à ses disciples : « vous, c'est dans l'Esprit Saint que vous serez baptisés d'ici peu de jours »[^4]. Jésus parle de la venue de l'Esprit à la Pentecôte, mais qui va se renouveler tout au long des Actes des Apôtres[^5]. Nous sommes toujours face au même choix : ce que Jésus promet dans les évangiles, est-ce aussi pour moi aujourd'hui ?
+ On trouve déjà cette expression « baptême dans l'Esprit Saint », dans le Nouveau Testament[^2]. Jésus, lui qui est « rempli d'Esprit Saint » est annoncé par Jean-Baptiste comme celui qui « baptise dans l'Esprit Saint »[^3]. Après sa Résurrection, il annonce à ses disciples : « vous, c'est dans l'Esprit Saint que vous serez baptisés d'ici peu de jours »[^4]. Jésus parle de la venue de l'Esprit à la Pentecôte. Mais on sait moins que de multiples petites Pentecôtes ont lieu dans les Actes des Apôtres[^5], à chaque fois que l'Eglise en a besoin. Nous sommes toujours face au même choix : ce que Jésus promet dans les évangiles, est-ce aussi pour moi aujourd'hui ?
 
- Durant les premiers siècles, l'Eglise a vécu fortement de ce don de l'Esprit Saint pour annoncer Jésus\... puis cela s'est un peu refroidi[^6]. Un peu moins dans l'Eglise orthodoxe qui a toujours eu un lien spécial avec l'Esprit Saint[^7]. Puis, au 20ème siècle, les chrétiens des églises protestantes et catholiques ont redécouvert cette grâce de se laisser « plonger » (c'est ce que signifie le mot « baptiser) dans l'Esprit.
+ Durant les premiers siècles, l'Eglise a vécu fortement de ce don de l'Esprit Saint pour annoncer Jésus\... puis cela s'est un peu refroidi[^6]. Un peu moins dans l'Eglise orthodoxe qui a toujours eu un lien spécial avec l'Esprit Saint[^7]. Puis, au 20<sup>ème</sup> siècle, les chrétiens des églises protestantes et catholiques ont redécouvert cette grâce de se laisser « plonger » (c'est ce que signifie le mot « baptiser) dans l'Esprit.
 
  En 1962, le pape Jean XXIII ouvre le concile en demandant à Dieu une nouvelle Pentecôte pour l'Eglise. Quelques années après, en 1967, naît dans l'Eglise catholique, un mouvement qui redécouvre la grâce de l'Esprit Saint : le renouveau charismatique. Ce mouvement porte aujourd'hui du fruit dans toute l'Eglise.
 
@@ -32,7 +28,7 @@ C'est une grâce que j'ai moi-même vécue, alors j'obéis avec joie !
 
  J'aime bien l'image du chocolat chaud. Si vous avez reçu l'Esprit (le chocolat) et que, avec le temps, celui-ci s'est déposé au fond de la tasse, votre lait n'a plus beaucoup de goût, en tout cas pas le goût de l'Esprit Saint. Alors parfois, il faut touiller, réactiver tout cela. Et c'est ce qui se passe quand on prie pour la venue de l'Esprit. Notre vie chrétienne prend du goût et donne envie à d'autres.
 
-# Comment cela se passe-t-il ?
+## Comment cela se passe-t-il ?
 
  L'Esprit Saint est évidemment libre de venir quand il veut, où il veut. Tout ce que nous pouvons faire, c'est préparer notre cœur. Mais lorsque les enfants de Dieu se réunissent pour prier ensemble, « tous d'un même cœur »[^8], c'est évidemment un moment privilégié. Par exemple pendant une veille de Pentecôte. C'est tout simple : nous sommes rassemblés comme l'Eglise naissante, nous prions, nous chantons. Et des gestes peuvent être posés :
 -  la prière des frères: deux ou trois personnes prient spécialement pour qu'une autre personne soit remplie de l'Esprit Saint ;
@@ -42,7 +38,7 @@ C'est une grâce que j'ai moi-même vécue, alors j'obéis avec joie !
 
  Mais il peut aussi ne rien se passer, c'est le plus courant ; si je n'expérimente rien, cela ne signifie pas que je n'ai pas que l'Esprit n'agit pas, son action est souvent subtile. L'Esprit Saint peut venir comme un ouragan, faire trembler la maison. Ou au contraire, cela a été le cas pour moi, comme le murmure d'une brise légère. Le *Veni Creator* dit qu'il est « force et douceur ». S'il est parfois représenté par une douce colombe, ne vous y trompez pas, sa puissance dépasse tout ce que nous pouvons imaginer[^9].
 
-# Quel est le résultat ?
+## Quel est le résultat ?
 
  L'enjeu central, c'est que nous soyons renouvelés dans l'amour, pour vivre « enracinés dans l'amour » [^10]. (Re)faire l'expérience de la présence et de l'amour de Dieu. L'amour se manifeste parfois sensiblement (comme pour des jeunes amoureux) et parfois plus paisiblement (comme dans un couple de longue date). Dans tous les cas, ce baptême dans l'Esprit a renouvelé l'amour et « la vie de millions de croyants dans presque toutes les églises chrétiennes. »[^11]
 
@@ -59,7 +55,7 @@ C'est une grâce que j'ai moi-même vécue, alors j'obéis avec joie !
 
  Dans tous les cas, gardez à l'Esprit, que vous sentiez quelque chose ou pas, que vous exprimiez votre louange à haute voix ou dans votre cœur, votre Père est content de vous. Il n'aime pas plus l'enfant joyeux qui tape dans ses mains que l'enfant calme qui lui dit merci à l'oreille !
 
-# Entrée en prière
+## Entrée en prière
 
 - Puisque nous parlons de louange, commençons notre prière de cette façon ! Personnellement, je le fais régulièrement. Même parfois quand les problèmes s'accumulent. Dans la Bible, au livre de Daniel, il y a un cantique qui loue Dieu pour ce qu'il a fait, le soleil, la lune, les océans, les animaux. « Bénissez le Seigneur, bénissez le Seigneur ! ». L'Eglise le chante souvent à l'office du matin le dimanche ou les jours de fête. Or on oublie parfois que ceux qui chantent ce cantique sont trois jeunes gens qui viennent d'être jetés dans une fournaise... ils ont été condamnés à être brûlés et pourtant louent Dieu ! Car ils savent bien que même du mal, Dieu peut tirer le bien[^14].
 - Au nom du Père, du Fils et du Saint-Esprit.

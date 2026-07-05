@@ -1,6 +1,7 @@
 ---
 title: Trois clefs pour prier
 linkTitle: Trois clefs pour prier
+description: "Si vous ne savez pas par où commencer pour prier… Trois clefs concrètes pour vous y mettre, avec un petit exercice pour ce lancer."
 ---
 # Trois clefs pour prier
 {{< lesson-header youtube="gnzvnK-XZ5Y" >}}  

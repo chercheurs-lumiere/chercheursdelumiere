@@ -5,6 +5,7 @@ weight: 200
 ---
 # Autres thèmes
 
-Sur cette page, divers enseignements sur divers thèmes:
+<br/>
+Dans cette rubrique, vous retrouverez une variété de thématiques, pour accompagner votre prière au quotidien ou découvrir de nouveaux horizons!
 
-[Sacré-Cœur de Jésus](sacre-coeur)
+

@@ -1,6 +1,7 @@
 ---
 title: Le chapelet de la Divine Miséricorde
 linkTitle: Chapelet de la Divine Miséricorde
+description: "Une prière simple et courte, pour demander à Jésus sa miséricorde pour nous-mêmes et pour le monde."
 ---
 # Le chapelet de la Divine Miséricorde
 {{< lesson-header youtube="sQoGbDQfcWI" >}}  

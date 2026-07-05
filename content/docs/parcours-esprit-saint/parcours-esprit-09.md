@@ -1,16 +1,12 @@
 ---
-title: Etape 9 - L'Esprit Saint combat avec toi
+title: Etape 9 - Aimer avec le Coeur de Dieu
 linkTitle: 9 - Aimer avec son Coeur
+description: "De débordement en débordement, l’Amour est en train d’inonder le monde."
 ---
-# Etape 9 - Je veux aimer avec le Cœur de Dieu
+# Etape 9 - Aimer avec le Cœur de Dieu
 {{< lesson-header youtube="yM-nqfmocaU" >}}  
   > [!info] En résumé  
->  
-> Cet enseignement présente trois clés simples pour entrer dans la prière :  
->  - Faire simple.  
-> - Persévérer malgré les distractions.  
-> - Chercher la rencontre avec Dieu.  
-> - test
+>  La source de tout Amour, c'est la sainte Trinité. À la Pentecôte, cet Amour a débordé sur la petite Eglise naissante. Depuis, la source ne s'est jamais tarie pour **que nous débordions nous-mêmes de cet Amour**!
 
   {{< /lesson-header >}}
 
@@ -20,7 +16,7 @@ N'oublions pas trop vite que la mort de Jésus a d'abord eu pour effet de les re
 
 Mais ils vont avoir la chance de vivre avec Jésus Ressuscité durant cinquante jours entre la Résurrection et la Pentecôte. Imaginez l'ambiance : Jésus est là, lui qu'ils ont vu mourir, il est à table avec eux, leur parle, les rassure. Peu à peu, Jésus les forme, ou plutôt les transforme. Mais il manque encore quelque chose. La pleine transformation, la transformation effective[^4], c'est le don de l'Esprit Saint, qui va leur donner une audace nouvelle pour annoncer à tous que Jésus est mort et Ressuscité.
 
-# Que se passe-t-il pour eux (et pour nous) ?
+## Que se passe-t-il pour eux (et pour nous) ?
 
 Ce qui se passe en eux lors de l'effusion de l'Esprit n'est pas dit clairement dans le récit. Mais on s'en rend compte d'après les fruits que l'on trouve dans les lignes qui suivent[^5] : ils ont l'audace de parler et « les auditeurs furent touchés au cœur », ils prient ensemble, ils partagent tout, ils prennent soin les uns des autres, ils partagent leur repas joyeusement, ils louent Dieu. Disons-le autrement : ils aiment d'une façon toute nouvelle. Ils aiment Dieu dans la prière et la louange. Ils aiment leurs frères joyeusement et généreusement, ils annoncent à tous ce Jésus qui les fait vivre.
 
@@ -30,7 +26,7 @@ Cette transformation nous désirons la vivre aussi[^8]. Cet amour-là nous voulo
 
 C'est ce qui a fait dire à de grands maîtres spirituels, que le grand but de la vie chrétienne, c'est l'acquisition de l'Esprit Saint[^9]. Le Père Marie-Eugène par exemple : « Dans votre vie, la grande urgence du présent, de l'avenir, c'est de trouver l'Esprit Saint, de vous mettre sous son action. Ne mettez pas d'autres urgences avant celle-là, parce que les autres ne sont pas légitimes, si elles vous obligent à négliger celle-là, si elles vous enlèvent vos moyens d'action. »[^10]
 
-# L'amour diffusif[^11]
+## L'amour diffusif[^11]
 
 Au tout début, à la source de tout, il y a donc l'Amour que partagent le Père et le Fils. Cet Amour si puissant est une personne, l'Esprit Saint. Mais voilà, cet amour est tellement abondant qu'il déborde. Cet amour, ce flot impétueux ne tient pas en place, il a besoin de se déverser ailleurs[^12].
 
@@ -38,21 +34,21 @@ Et il déborde sur la petite Eglise naissante, par la venue de l'Esprit Saint. E
 
 Et ces croyants eux-mêmes vont déborder. Allez compter les milliers de saints, les millions d'amis de Dieu qui ont été remplis de cet Amour et qui à leur tour se sont donnés complètement pour que l'Amour se répande dans le monde. C'est grâce à eux, qui ont suivi et annoncé Jésus, que nous sommes aujourd'hui chrétiens.
 
-Regardez toute l'enchevêtrement de ruisseaux, de fleuves, de petits fossés par lesquels l'amour a coulé jusqu'à nous. Et à votre avis qu'allons-nous faire ? Est-ce que vous croyez que cet amour va s'arrêter chez nous ? Est-ce que nous allons être des marais aux eaux stagnantes ? Avec de l'eau croupie et malodorante. Certainement pas ! Nous allons déborder à notre tour. Et ce flot ne s'arrêtera que lorsque Dieu aura inondé le monde entier, c'est-à-dire lorsque son plan d'Amour sera entièrement réalisé.
+Regardez toute l'enchevêtrement de ruisseaux, de fleuves, de petits fossés par lesquels l'amour a coulé jusqu'à nous. Et à votre avis qu'allons-nous faire ? Est-ce que vous croyez que cet amour va s'arrêter chez nous ? Est-ce que nous allons être des marais d'eau stagnante ? Avec de l'eau croupie et malodorante? Certainement pas ! Nous allons déborder à notre tour. Et ce flot ne s'arrêtera que lorsque Dieu aura inondé le monde entier, c'est-à-dire lorsque son plan d'Amour sera entièrement réalisé.
 
-# Qu'est-ce que ça change ?
+## Qu'est-ce que ça change ?
 
 Ce débordement de notre amour va se faire de deux façons.
 
 D'une part, nous aurons le désir de rendre à Dieu amour pour amour. Quand nous comprendrons enfin que nous sommes aimés par Dieu, est-ce que nous resterons indifférents ? Non, nous aurons pour Lui un amour filial, qui nous pousse à répondre à l'amour de notre Père. « Ce premier mouvement de l'amour est le mouvement essentiel, le mouvement vital de l'âme qui veut revenir vers sa source. »[^13] Animés de cet amour, la prière n'est plus ennuyeuse, la messe n'est plus une routine. Lui dire merci, le louer est une évidence.
 
-D'autre part, nous aurons le désir d'aimer dans toutes les situations de notre vie. De la même façon que l'amour déborde, « sort de la sainte Trinité pour aller à d'autres êtres »^13^, nous devenons à notre tour des distributeurs d'amour. Et alors mon regard va changer sur cette personne que je ne peux pas encadrer (vous avez certainement un visage qui vous vient à l'Esprit). Mon regard va changer sur celui qui, toujours au même endroit, chaque jour, me dit « je suis à la rue, il me manque juste 1€ pour... ». Je vais avoir la capacité de mettre un maximum d'amour dans ce petit SMS que j'envoie à quelqu'un qui en a besoin.
+D'autre part, nous aurons le désir d'aimer dans toutes les situations de notre vie. De la même façon que l'amour déborde, « sort de la sainte Trinité pour aller à d'autres êtres »[^13], nous devenons à notre tour des distributeurs d'amour. Et alors mon regard va changer sur cette personne que je ne peux pas encadrer (vous avez certainement un visage qui vous vient à l'Esprit). Mon regard va changer sur celui qui, toujours au même endroit, chaque jour, me dit « je suis à la rue, il me manque juste 1€ pour... ». Je vais avoir la capacité de mettre un maximum d'amour dans ce petit SMS que j'envoie à quelqu'un qui en a besoin.
 
 Jésus a vécu cela : dans l'Evangile on le voit aimer son Père de toute ses forces. Il sort parfois seul la nuit pour aller le prier, être avec lui. Et on le voit guérir des malades, accueillir des enfants sur ses genoux, répondre patiemment à Nicodème qui n'a rien trouvé de mieux que de le réveiller en pleine nuit. Jésus ajoute que c'est sur cet amour des autres que nous serons jugés : « chaque fois que vous l'avez fait à l'un de ces plus petits de mes frères, c'est à moi que vous l'avez fait. »[^14]
 
 N'ayons pas peur, nous travaillons en équipe avec l'Esprit Saint. Nous mettons en œuvre notre intelligence, notre liberté, nos talents, nos compétences. Mais c'est lui qui tient la barre. Faisons notre part, faisons tout par amour, mais gardons notre regard sur l'Esprit Saint. Il est le Maître.[^15]
 
-# Entrée en prière
+## Entrée en prière
 
 Nous écoutons le récit de la Pentecôte[^16], dans la traduction « Parole de Vie ».
 
@@ -70,7 +66,7 @@ Nous écoutons le récit de la Pentecôte[^16], dans la traduction « Parole de
 [^4]: Père Marie-Eugène, *Au souffle de l'Esprit*, p.342
 [^5]: Actes des Apôtres, chapitre 2, entre les versets 37 et 47.
 [^6]: C'est ce que disent Saint Augustin et saint Thomas d'Aquin de l'Esprit Saint.
-[^7]: Raniero Cantalamessa, *La vie dans la Seigneurie du Christ*, p.25*.* « L'amour qui a été répandu en nous est celui-là même avec lequel le Père, depuis toujours, aime le Fils ; ce n'est pas un amour différent. C'est un débordement de l'amour divin de la Trinité jusqu'à nous. »
+[^7]: Raniero Cantalamessa, *La vie dans la Seigneurie du Christ*, p.25. « L'amour qui a été répandu en nous est celui-là même avec lequel le Père, depuis toujours, aime le Fils ; ce n'est pas un amour différent. C'est un débordement de l'amour divin de la Trinité jusqu'à nous. »
 [^8]: Père Marie-Eugène, *Heureux l'apôtre uni à l'Esprit d'Amour*, p.41.
 [^9]: Saint Séraphin de Sarov. « Le vrai but de la vie chrétienne consiste en l'acquisition du Saint-Esprit de Dieu. Quant à la prière, au jeûne, aux veilles, à l'aumône et toute autre bonne action faite au nom du Christ, ce ne sont que des moyens pour l'acquisition du Saint-Esprit. »
 [^10]: Père Marie-Eugène, *Chemins vers le silence intérieur.*
