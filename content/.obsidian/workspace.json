@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/parcours-esprit-saint/parcours-esprit-09.md",
+                "file": "docs/autres-themes/trois-clefs-priere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "parcours-esprit-09"
+              "title": "trois-clefs-priere"
             }
           }
         ]
@@ -140,6 +140,8 @@
   },
   "active": "14b2c5f16dd5742c",
   "lastOpenFiles": [
+    "docs/autres-themes/sacre-coeur.md",
+    "docs/parcours-esprit-saint/parcours-esprit-09.md",
     "docs/parcours-esprit-saint/parcours-esprit-08.md",
     "docs/parcours-esprit-saint/parcours-esprit-07.md",
     "docs/parcours-esprit-saint/parcours-esprit-06.md",
@@ -150,10 +152,8 @@
     "docs/parcours-esprit-saint/parcours-esprit-01.md",
     "docs/autres-themes/trois-clefs-priere.md",
     "docs/autres-themes/chapelet-divine-misericorde.md",
-    "docs/autres-themes/sacre-coeur.md",
     "docs/parcours-esprit-saint/_index.md",
     "docs/autres-themes/_index.md",
-    "docs/parcours-esprit-saint/parcours-esprit-09.md",
     "_index.md",
     "docs/feuille-style.md",
     "Sans titre.md",

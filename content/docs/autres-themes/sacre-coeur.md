@@ -1,7 +1,7 @@
 ---
 title: Le Sacré-Coeur de Jésus
 linkTitle: Sacré-Coeur de Jésus
-description: "Apprenez en plus sur l’Amour passionné de celui qui s’est présenté à nous comme « doux et humble de Cœur »."
+description: "Apprenez-en plus sur l’Amour passionné de celui qui s’est présenté à nous comme « doux et humble de Cœur »."
 ---
 # Le Sacré-Cœur de Jésus
 {{< lesson-header youtube="sQoGbDQfcWI" >}}  
