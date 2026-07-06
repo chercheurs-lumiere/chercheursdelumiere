@@ -12,3 +12,6 @@ theme = "hugo-book"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+canonifyURLs = true
+relativeURLs = false
