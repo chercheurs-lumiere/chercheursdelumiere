@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/autres-themes/trois-clefs-priere.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trois-clefs-priere"
+              "title": "_index"
+            }
+          },
+          {
+            "id": "ba9bffc6435ae3fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/a-propos-site.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a-propos-site"
+            }
+          },
+          {
+            "id": "7537640193e4d101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,8 +167,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "14b2c5f16dd5742c",
+  "active": "7537640193e4d101",
   "lastOpenFiles": [
+    "site/mentions-legales.md",
+    "_index.md",
+    "docs/a-propos-site.md",
+    "docs/parcours-esprit-saint/_index.md",
+    "docs/feuille-style.md",
+    "docs/accueil.md",
+    "docs/autres-themes/_index.md",
+    "docs/autres-themes/chapelet-divine-misericorde.md",
+    "site",
+    "docs/autres-themes/trois-clefs-priere.md",
     "docs/autres-themes/sacre-coeur.md",
     "docs/parcours-esprit-saint/parcours-esprit-09.md",
     "docs/parcours-esprit-saint/parcours-esprit-08.md",
@@ -150,16 +189,8 @@
     "docs/parcours-esprit-saint/parcours-esprit-03.md",
     "docs/parcours-esprit-saint/parcours-esprit-02.md",
     "docs/parcours-esprit-saint/parcours-esprit-01.md",
-    "docs/autres-themes/trois-clefs-priere.md",
-    "docs/autres-themes/chapelet-divine-misericorde.md",
-    "docs/parcours-esprit-saint/_index.md",
-    "docs/autres-themes/_index.md",
-    "_index.md",
-    "docs/feuille-style.md",
-    "Sans titre.md",
     "Pasted image 20260702170224.png",
     "autres-themes/chapelet-divine-misericorde.md",
-    "autres-themes",
-    "docs/accueil.md"
+    "autres-themes"
   ]
 }

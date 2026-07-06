@@ -193,7 +193,26 @@ a:hover {
   text-align: right;
 }
 
+/* -------------------------------
+   Footer de la page d'accueil
+--------------------------------*/
 
+.home-footer {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--gray-200);
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--gray-600);
+}
+
+.home-footer a {
+  text-decoration: none;
+}
+
+.home-footer a:hover {
+  text-decoration: underline;
+}
 
 /* -------------------------------
    📚 SIDEBAR (menu Book)

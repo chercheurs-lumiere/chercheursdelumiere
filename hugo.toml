@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://chercheursdelumiere.fr/"
 locale = "fr-FR"
 defaultContentLanguage = 'fr'
 title = "Chercheurs de Lumière"

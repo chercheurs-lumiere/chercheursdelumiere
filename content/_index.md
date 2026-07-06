@@ -20,15 +20,18 @@ Voici trois clefs concrètes et un exercice pratique pour démarrer:
 Les vidéos de la [chaîne Youtube](https://www.youtube.com/@ChercheursdeLumiere62) permettent de découvrir les divers enseignements. Ce site vous permet de les explorer et de les approfondir.
 
 {{< newsletter >}}
-## L'intuition de ce site
-**Où donc est ton cœur?** Est-il dispersé dans mille occupations et plaisirs ou cherche-t-il l'essentiel, ce qui donne réellement sens à une vie?
 
-Pour répondre à cette question, ce site vous propose de puiser aux sources de la foi chrétienne. Notre désir est de mettre à votre disposition, en mots simples et concrets, les fruits d'une longue tradition, l'expérience d'hommes et de femmes qui ont compris que leur plus grand trésor se trouve dans leur cœur.
-
-_Ce site se veut fidèle aux enseignements de l'Église catholique. Tout ce qui y est proposé est soumis à son discernement et à son jugement._
 
 **Ce site est encore en train de naître. Il va progressivement grandir!**
-
 ## Contact
 
 [contact@chercheursdelumiere.fr](mailto:contact@chercheursdelumiere.fr)
+
+
+<div class="home-footer">  
+  
+[À propos du site](/docs/a-propos-site/) · [Mentions légales](/site/mentions-legales/)  
+  
+_Tu nous as faits pour toi, Seigneur!_
+  
+</div>
