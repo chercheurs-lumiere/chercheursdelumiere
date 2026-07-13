@@ -1,0 +1,19 @@
+{{- $title := cond .IsHome .Site.Title (printf "%s | %s" .Title .Site.Title) -}}
+{{- $description := or .Description .Summary | plainify | htmlUnescape -}}
+{{- $image := .Params.ogimage | default "images/og-image.png" | absURL -}}
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ $image }}">
+<meta property="og:image:alt" content="Chercheurs de Lumière">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:image" content="{{ $image }}">
+<meta name="twitter:image:alt" content="Chercheurs de Lumière">

@@ -1,3 +1,8 @@
+---
+title: Chercheurs de Lumière
+description: "Un site pour tous ceux qui veulent partir à la rencontre de Dieu, pour mieux le connaître et le prier."
+---
+
 # Chercheurs de Lumière
 
 Pour tous ceux qui cherchent Dieu.\
