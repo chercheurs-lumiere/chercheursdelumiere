@@ -9,12 +9,12 @@
     <div class="video-wrapper">
       <iframe
         src="https://www.youtube-nocookie.com/embed/{{ .Get "youtube" }}"
-        title="YouTube video player"
+        title="{{ .Page.Title }} - Vidéo Chercheurs de Lumière"
         loading="lazy"
-        allowfullscreen>
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  	allowfullscreen>
       </iframe>
     </div>
   </div>
-
 </div>
 <br/>
