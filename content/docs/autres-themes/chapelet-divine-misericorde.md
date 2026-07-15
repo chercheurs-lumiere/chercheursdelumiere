@@ -4,7 +4,7 @@ linkTitle: Chapelet de la Divine Miséricorde
 description: "Une prière simple et courte, pour demander à Jésus sa miséricorde pour nous-mêmes et pour le monde."
 ---
 # Le chapelet de la Divine Miséricorde
-{{< lesson-header youtube="sQoGbDQfcWI" >}}  
+{{< lesson-header youtube="cZItt4ryqQU" >}}  
   > [!info] En résumé  
   > Découvrez ici une magnifique prière que Jésus lui-même a appris à sainte Faustine, **pour demander sa miséricorde**. Une prière de moins de 10 minutes, que le pape Jean-Paul II aimait réciter!
  
